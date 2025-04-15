@@ -41,29 +41,25 @@ No curto prazo, este projeto é também um **exercício técnico pessoal**. Ele 
 
 ---
 
-### 🧭 Funcionalidades Futuras
+## 🛠️ Tecnologias Utilizadas
 
-- [ ] **Etapas da brassagem e fermentação**
-  Inclusão de orientações passo a passo para cada etapa do processo cervejeiro.
+- **C# (.NET MAUI)**  
+  Framework principal para desenvolvimento do aplicativo, com foco em aplicações desktop multiplataforma.
 
-- [ ] **Sugestões automáticas de receitas**
-  Com base nos ingredientes disponíveis, o app poderá sugerir composições viáveis.
+- **.NET 9**  
+  Plataforma moderna utilizada para compilar, executar e empacotar o projeto, com suporte nativo ao MAUI.
 
-- [ ] **Integração com algoritmos de machine learning**
-  Para aprimorar sugestões, prever sabores e avaliar combinações.
+- **VSCode**  
+  Ambiente de desenvolvimento utilizado neste projeto, com extensões específicas para MAUI, C# e terminal integrado para CLI.
 
-- [ ] **Exportação de receitas**
-  Geração de arquivos PDF, Brew XML ou outros formatos padronizados.
+- **MVVM (Model-View-ViewModel)**  
+  Arquitetura utilizada para separação de responsabilidades, facilitando manutenção, testes e expansão futura.
 
-- [ ] **Sistema de perfis de usuário**
-  Login, histórico, receitas favoritas e dados salvos em nuvem ou local.
+- **XAML**  
+  Linguagem declarativa usada na construção da interface do usuário.
 
-- [ ] **Visualização gráfica de atributos**
-  Indicadores visuais como cor (SRM), amargor (IBU), corpo e espuma.
+- **Git & GitHub**  
+  Para versionamento do código, controle de alterações e publicação pública do projeto.
 
-- [ ] **Persistência de dados com banco de dados local**
-  Substituição do armazenamento em memória por SQLite ou outro sistema de banco de dados.
-
-- [ ] **Suporte multiplataforma**
-  Possibilidade de rodar o app também em dispositivos móveis no futuro.
+---
 
