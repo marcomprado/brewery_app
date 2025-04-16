@@ -295,6 +295,7 @@
 /Users/marco/Documents/vscode/brewery/bebrewery/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/bebrewery.pdb
 /Users/marco/Documents/vscode/brewery/bebrewery/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/bebrewery.genruntimeconfig.cache
 /Users/marco/Documents/vscode/brewery/bebrewery/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/ref/bebrewery.dll
+/Users/marco/Documents/vscode/brewery/bebrewery/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/bebrewery.sourcelink.json
 /Users/marco/Documents/vscode/brewery/bebrewery/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp
 /Users/marco/Documents/vscode/brewery/bebrewery/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Configuration.stamp
 /Users/marco/Documents/vscode/brewery/bebrewery/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.Abstractions.stamp

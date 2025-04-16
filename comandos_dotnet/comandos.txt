@@ -1,0 +1,11 @@
+dotnet build -f:net9.0-maccatalyst 
+//-> faz a build pra macos
+
+dotnet run -f:net9.0-maccatalyst 
+//-> faz o programa rodar depois da build
+
+dotnet run -f:net9.0-maccatalyst --project bebrewery/bebrewery.csproj  
+// -> se estiver fora da pasta
+
+dotnet build -f:net9.0-maccatalyst 
+dotnet run -f:net9.0-maccatalyst 
